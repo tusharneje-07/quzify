@@ -18,8 +18,8 @@ A Simple, Secure and Anti-Cheat qualification and assessment platform for managi
 
 Clone the repository:
 ```bash
-git clone https://github.com/tusharneje-07/qualify-.git
-cd qualify
+git clone https://github.com/tusharneje-07/quzify.git
+cd quzify
 ```
 
 
@@ -27,4 +27,4 @@ cd qualify
 
 Tushar Neje - [@tusharneje_07](https://twitter.com/tusharneje_07) - tusharneje07@gmail.com
 
-Project Link: [https://github.com/tusharneje-07/qualify-](https://github.com/tusharneje-07/qualify)
+Project Link: [https://github.com/tusharneje-07/quzify](https://github.com/tusharneje-07/quzify)
