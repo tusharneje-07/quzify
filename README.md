@@ -26,5 +26,5 @@ cd quzify
 ## Contact 📧
 
 Tushar Neje - [@tusharneje_07](https://twitter.com/tusharneje_07) - tusharneje07@gmail.com
-
+Vinayak Mali -[@vinayakmali43] - malivinayak170@gmail.com
 Project Link: [https://github.com/tusharneje-07/quzify](https://github.com/tusharneje-07/quzify)
